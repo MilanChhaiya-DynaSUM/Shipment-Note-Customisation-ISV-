@@ -42,7 +42,7 @@ table 1000001 "ABC Shipment Note"
                     Validate("Customer Name", Customer.Name);
             end;
         }
-        field(5; "Customer Name"; Code[20])
+        field(5; "Customer Name"; Text[100])
         {
             Caption = 'Customer Name';
             DataClassification = CustomerContent;
