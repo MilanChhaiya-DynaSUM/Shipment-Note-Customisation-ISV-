@@ -1,0 +1,34 @@
+{
+  "id": "3a8d856d-ce69-4c9a-9a56-46988ef6919a",
+  "name": "Shipment Note Management",
+  "publisher": "dynasum",
+  "version": "1.0.0.0",
+  "brief": "Track shipment notes and require shipment confirmation before posting sales orders.",
+  "description": "Adds a Shipment Note entity with its own number series and status workflow, plus a control that blocks Sales Order posting until shipment has been confirmed.",
+  "privacyStatement": "https://dynasum.com/privacy",
+  "EULA": "https://dynasum.com/eula",
+  "help": "https://dynasum.com/help",
+  "url": "https://dynasum.com",
+  "logo": "Src/Logo/DynaSum Logo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 1000000,
+      "to": 1000050
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "contextSensitiveHelpUrl": "http://www.dynasum.com",
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

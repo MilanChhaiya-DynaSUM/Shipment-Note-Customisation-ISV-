@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Shipment Note Management">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3821425985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Note Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3821425985 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3821425985 - Field 3430678438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Require Shipment Confirmation Before Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Setup - Field Require Shipment Confirmation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3821425985 - Field 463670376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Note Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Setup - Field Shipment Note Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597497492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Shipment Note - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597497492 - NamedType 2690411257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A Closed Shipment Note cannot be reopened. Create a new Shipment Note instead.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Shipment Note - NamedType CannotReopenErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3597497492 - NamedType 4164320110" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Shipment Note must be Released before it can be Closed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Shipment Note - NamedType MustBeReleasedFirstErr</note>
+        </trans-unit>
+        <trans-unit id="Table 3597497492 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Shipment Note - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597497492 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Shipment Note - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597497492 - Field 1475490283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Shipment Note - Field Sales Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597497492 - Field 4112852368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Shipment Note - Field Shipment Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3597497492 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABC Shipment Note - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2148854510 - NamedType 83199421" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot post this order because the Shipment Confirmed checkbox is not ticked.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ABC Sales Post Subscriber - NamedType ShipmentNotConfirmedErr</note>
+        </trans-unit>
+        <trans-unit id="Page 2835781421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Note Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2835781421 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Setup Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2835781421 - Control 3430678438 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if a Sales Order cannot be posted until its Shipment Confirmed checkbox is ticked.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Setup Card - Control Require Shipment Confirmation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2835781421 - Control 463670376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number series used to assign numbers to new Shipment Notes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Setup Card - Control Shipment Note Nos. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Note</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the Shipment Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the Shipment Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Control 1475490283 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer the shipment relates to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Control Sales Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Control 4112852368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date the shipment is expected or was made.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Control Shipment Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the current status of the Shipment Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Action 180945730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closes a Released Shipment Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Action CloseNote - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Action 180945730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Action CloseNote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Action 4032263875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Releases the Shipment Note after checking that required fields are filled in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Action Release - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4163548064 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note Card - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Notes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the Shipment Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the Shipment Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Control 1475490283 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Sales Order the shipment relates to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Control Sales Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Control 4112852368 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date the shipment is expected or was made.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Control Shipment Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the current status of the Shipment Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Action 180945730 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closes a Released Shipment Note.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Action CloseNote - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Action 180945730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Action CloseNote - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Action 4032263875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Releases the Shipment Note after checking that required fields are filled in.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Action Release - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 954495142 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ABC Shipment Note List - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 425955713 - Control 3203378133 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies that the shipment for this order has been confirmed. Required before the order can be posted, unless disabled in Shipment Note Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ABC Sales Order Ext - Control ABC Shipment Confirmed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2673366250 - Field 3203378133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Shipment Confirmed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ABC Sales Header Ext - Field ABC Shipment Confirmed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1569209808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Note Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABC Shipment Note Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1569209808 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABC Shipment Note Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1569209808 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABC Shipment Note Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1569209808 - EnumValue 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum ABC Shipment Note Status - EnumValue Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 4012169550 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ABC Shipment Note - Full Access</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet ABC SHIP NOTE - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

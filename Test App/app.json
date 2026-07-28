@@ -1,0 +1,39 @@
+{
+  "id": "f0c07f81-ba89-4fd7-ab4e-e71bf103e270",
+  "name": "Shipment Note Management - Tests",
+  "publisher": "YourCompanyName",
+  "version": "1.0.0.0",
+  "brief": "Automated tests for the Shipment Note Management app.",
+  "description": "Test codeunits covering Shipment Note status validation and the Sales Order posting block. Not published to AppSource - internal test app only.",
+  "dependencies": [
+    {
+"id": "3a8d856d-ce69-4c9a-9a56-46988ef6919a",
+"name": "Shipment Note Management",
+"publisher": "dynasum",
+"version": "1.0.0.0"
+},
+    {
+"id": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+"name": "Library Assert",
+"publisher": "Microsoft",
+"version": "28.2.50931.51111"
+}
+  ],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
